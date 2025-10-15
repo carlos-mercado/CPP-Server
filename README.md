@@ -17,7 +17,6 @@ CPP-Server/
 ├── server_linux.cpp          # Main server implementation
 ├── http_tcpServer_linux.h     # HTTP server class header
 ├── music.h                    # Music monitoring class header
-├── notes.txt                  # Project notes
 └── README.md                  # This file
 ```
 
@@ -183,5 +182,3 @@ This project is open source. Feel free to use and modify as needed.
 **Carlos Mercado** - [GitHub Profile](https://github.com/carlos-mercado)
 
 ---
-
-*Built with ❤️ and C++*
